@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+#container{
+    display: block;
+    /* display: flex; */
+    /* justify-content: center; */
+    height: 150px;
+    width: 100vh;
+    /* background-color: aqua; */
+    /* border: 2px solid black; */
+    margin-top: 220px;
+    margin-left: 100px;
+    /* background-color: black; */
+
+}
+#btn{
+    display: block;
+    margin-left: 500px;
+    width: 60px;
+    margin-top: 10px;
+    margin-right: 700px;
+    background-color: gold;
+    color: white;
+
+
+
+
+}
+#username{
+
+    display: block;
+    margin-left: 500px;
+    margin-top: 10px;
+    padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+    border-radius: 10px;
+
+
+}
+#gmail {
+    display: block;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 10px;
+    padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+
+    
+}
